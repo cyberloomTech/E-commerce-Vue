@@ -7,7 +7,6 @@
   - [Overview](#overview)
     - [:mount\_fuji: The Challenge](#mount_fuji-the-challenge)
     - [:camera: Screenshot](#camera-screenshot)
-    - [:link: Links](#link-links)
   - [My process](#my-process)
     - [:wrench: Built with](#wrench-built-with)
     - [:bulb: What I've learned](#bulb-what-ive-learned)
@@ -21,8 +20,6 @@
       - [Code and project cleanliness](#code-and-project-cleanliness)
       - [Miscellaneous](#miscellaneous)
     - [:mountain\_bicyclist: Continued development](#mountain_bicyclist-continued-development)
-    - [:cake: Acknowledgements \& Useful resources](#cake-acknowledgements--useful-resources)
-  - [Author](#author)
 
 
 ## Overview
@@ -42,12 +39,6 @@ Shop owners can easily add new products through the products file. Subsequently,
 Some animations are not presented correctly in the full page screenshot, so make sure to visit the web app [here](https://e-commerce-store-amber-zeta.vercel.app/).
 
 ![Landing Page](./screenshots/e-commerce-store-amber-zeta.vercel.app_(1080p).png)
-
-![Keyboard Product Page](./screenshots/e-commerce-store-amber-zeta.vercel.app_keyboards_0(1080p).png)
-
-### :link: Links
-
-You can find a live deployment of this project [right here!](https://e-commerce-store-amber-zeta.vercel.app/)
 
 ## My process
 
@@ -156,32 +147,3 @@ As this project was no different, I have a list of scribbled down ideas for futu
 - Aim for full test coverage on all components
 - Refine tablet view  
 
-### :cake: Acknowledgements & Useful resources
-
-[LearnVue](https://www.youtube.com/@LearnVue) is a must have resource for vue beginners to intermediate.
-
-[Make Apps with Danny](https://www.youtube.com/watch?v=JGC7aAC-3y8&t=1423s) has been crucial in helping me get a first glimpse at VueX and Pinia
-
-[freeCodeCamp - Learn Typescript](https://www.youtube.com/watch?v=30LWjhZzg50) has tought me everything regarding TypeScript, and I can wholeheartedly recommend watching it.
-
-[freeCodeCamp - Testing JS with Cypress](https://www.youtube.com/watch?v=u8vMu7viCm8&t=7880s) is great for learning E2E testing basics in Cypress and some component testing.
-
-[Web Dev Simplified - (...) Responsive Images](https://www.youtube.com/watch?v=fp9eVtkQ4EA&t=679s) Not yet implemented, but a great tutorial on how to make images responsive with only HTML and some image compression.
-
-Special thanks go out to the creators of the rendered images I have used for each product.
-
-- [Haziq hsbllh](https://www.behance.net/haziqhsbllh)
-- [Jake (Jongha) Lee](https://www.behance.net/jake_acasso)
-- [Dayoung Lee](https://www.behance.net/poiiu83229f5)
-- [Raphael Rau](https://www.behance.net/Silverwing-VFX)
-- [Alex Casabo](https://www.behance.net/alexcasabo)
-- [Manasuka Creative](https://www.behance.net/manasukcreativ)
-- [Krittin Tachasiritanakul](https://www.behance.net/Febust)
-- [Julio Redondo](https://www.behance.net/julio_redondo)
-
-Part of the page design has been inspired by projects from [Frontend Mentor](https://www.frontendmentor.io/)
-
-## Author
-
-- Raul Nikolaus
-- [Github - @rauldotgit](https://github.com/rauldotgit)
