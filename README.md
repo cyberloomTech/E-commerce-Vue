@@ -36,8 +36,6 @@ Shop owners can easily add new products through the products file. Subsequently,
 
 ### :camera: Screenshot
 
-Some animations are not presented correctly in the full page screenshot, so make sure to visit the web app [here](https://e-commerce-store-amber-zeta.vercel.app/).
-
 ![Landing Page](./screenshots/e-commerce-store-amber-zeta.vercel.app_(1080p).png)
 
 ## My process
